@@ -1,0 +1,25 @@
+// 1. Import the initial variables
+@import "../bulma/sass/utilities/initial-variables";
+@import "../bulma/sass/utilities/functions";
+
+// 2. Set your own initial variables
+// Update colors
+$blue: #337ab7;
+$green: #46a546;
+$orange: #f89406;
+
+// 3. Set the derived variables
+
+// 4. Setup your Custom Colors
+
+// 5. Add new color variables to the color map.
+
+// 6. Import the rest of Bulma
+@import "../bulma";
+
+@import "../bootstrap/scss/bootstrap.scss";
+$fa-font-path: "../font-awesome/fonts/";
+@import "../font-awesome/scss/font-awesome";
+
+
+
